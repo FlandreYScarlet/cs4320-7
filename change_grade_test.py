@@ -4,9 +4,9 @@ import Staff
 #Test grade change
 def test_gradeChange(staff_system):
         
-        username = 'yy9p4'
+        username = 'hdjsr7'
         course = 'software_engineering'
-        assignment = 'assignment7'
+        assignment = 'assignment1'
         grade = 50
 
         assert staff_system.change_grade(username,course,assignment,grade)
