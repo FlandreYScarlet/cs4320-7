@@ -2,7 +2,7 @@ import pytest
 import System
 
 #Tests if the password right
-def test_checkPassword:
+def test_checkPassword(grading_system):
     username = 'akend3'
     password = '123454321'
     result = grading_system.check_password(username, password)
