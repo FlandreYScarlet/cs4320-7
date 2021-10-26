@@ -4,8 +4,8 @@ import System
 #Test login
 def test_login(grading_system):
         
-        username = 'yy9p4'
-        password = 'flandrescarlet'
+        username = 'hdjsr7'
+        password = 'pass1234'
 
         testResult = grading_system.login(username, password) is None
 
