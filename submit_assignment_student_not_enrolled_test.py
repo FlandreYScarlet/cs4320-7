@@ -3,7 +3,7 @@ import System
 
 
 #test for submit assignment but student doesn't enrolled
-def test_assignmentSubmit(grading_system)
+def test_assignmentSubmit(grading_system):
 
     username= 'akend3'
     password = '123454321'
