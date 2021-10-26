@@ -3,8 +3,8 @@ import System
 
 #Tests if the password right
 def test_checkPassword:
-    username = 'yy9p4'
-    password = 'flandrescarlet'
+    username = 'akend3'
+    password = '123454321'
     result = grading_system.check_password(username, password)
 
 
